@@ -1,0 +1,13 @@
+git config --global user.name "Dg_14092002"
+git config --global user.email "dhruv.gangdev14@gmail.com"
+git clone https://github.com/Dg142002/Prac.git
+git init
+git status
+cd Prac
+dir
+
+git add 1st.py
+git status
+
+git remote add origin https://github.com/Dg142002/Prac
+git push -u origin main
